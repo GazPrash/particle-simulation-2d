@@ -12,4 +12,4 @@ A simple 2D particle simulation engine built using [Raylib](https://www.raylib.c
   - `./main`
 
 ## Demo
-![Particle Simulation Demo](path_to_your_gif.gif)
+![Particle Simulation Demo](demo/particle_sim_engine.gif)
