@@ -1,6 +1,6 @@
 # Particle Simulation - 2D
 
-A simple 2D particle simulation engine built using [Raylib](https://www.raylib.com/) (C) using the library.
+A simple 2D particle simulation engine built using the [Raylib](https://www.raylib.com/) library.
 
 ## Run it yourself
 - [1] Download Raylib: https://www.raylib.com/
